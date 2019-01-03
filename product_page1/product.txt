@@ -1,0 +1,4 @@
+Name - Student Schedule Builder
+Subtitle - Four year graduation planner
+
+Description - The Student Scheduler Software is a JavaFX based software that shall assist college students and advisors in the creation of four-year graduation plans for different degrees. The comparatively low four-year graduation rate at UMBC can be attributed in part to the lack of advising and planning tools available to students. The software shall create a visual representation of the required courses as well as the corresponding prerequisites. This software is meant to supplement advising information for students and is meant to be used by both students and advisors.

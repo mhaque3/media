@@ -1,0 +1,6 @@
+Gate & Simulation
+	Design & share circuits online
+
+Description 
+Designed with the student in mind! Create quick and simple logic gate diagrams for classes, or use it to teach beginners the basics! Logic Gate Editor is a user-friendly circuit design tool created for the beginning student. It takes only the core functionality of popular the circuit editor Logisim, eliminating the complexity that can be daunting to first-timers.
+Share your work! Logic Gate Editor allows you to easily save and share created diagrams, as well as load other user’s work to your browser!
